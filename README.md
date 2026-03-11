@@ -4,10 +4,13 @@ Student Management System is a web-based application developed using Java, Servl
 It helps administrators manage student records efficiently through a simple interface.
 
 ## Features
+- Admin Login System
+- Student Dashboard
 - Add Student
 - View Students
 - Update Student Details
 - Delete Student
+- Login Expiry using CSV file
 
 ## Technologies Used
 - Java
